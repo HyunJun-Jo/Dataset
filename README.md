@@ -11,4 +11,4 @@ Instance segmenatation
 1. Mask R-CNN - 
 
 WRS(world robot summit - partner robot challenge in real space) dataset
-1. YOLO for WRS - 
+1. YOLO for WRS - https://drive.google.com/open?id=1deIZY4z-fiNZuqQTCJUzt73XLBo_8gNu
