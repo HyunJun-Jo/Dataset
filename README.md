@@ -3,8 +3,6 @@ Datasets for object detection and instance segmentation.
 These are for YOLO, Faster R-CNN, and Mask R-CNN.
 
 
-**Available datasets**
-
 **Object detection - VOC type**
 1. Faster R-CNN & YOLO
   - https://drive.google.com/open?id=1ft88lfgWV8LIpAfdv8mtoT3lMtLuU-bh
