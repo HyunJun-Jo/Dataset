@@ -20,7 +20,3 @@ Instance segmenatation
 1. Mask R-CNN
   - https://drive.google.com/open?id=1yqp0Y0VZSbSrpzz6wBhCPwM-S_I-tHha
   - https://drive.google.com/open?id=1QNpTTd8lWOwkHOXFwnwYKHlcwYXo2Ywn
-
-WRS dataset (world robot summit - partner robot challenge in real space) 
-1. YOLO for WRS
-  - https://drive.google.com/open?id=1deIZY4z-fiNZuqQTCJUzt73XLBo_8gNu
