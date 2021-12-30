@@ -17,5 +17,5 @@ Object detection - VOC type
 
 Instance segmenatation
 1. Mask R-CNN
-  - https://koreaoffice-my.sharepoint.com/:u:/g/personal/jhj0630_korea_edu/EcgyZWgbIGNNiQR4rQ6H4KYBKfibqw9G2aVSAGEJ8AfwVQ?e=BYm8AU
- 
+  - https://koreaoffice-my.sharepoint.com/:u:/g/personal/jhj0630_korea_edu/EcEE68quntlBnGN2iLf0DEUB53knJnuBCSbsZnJc3HVBog?e=Yg0DCz
+  - https://koreaoffice-my.sharepoint.com/:u:/g/personal/jhj0630_korea_edu/EcgyZWgbIGNNiQR4rQ6H4KYBKfibqw9G2aVSAGEJ8AfwVQ?e=c8TYIh
